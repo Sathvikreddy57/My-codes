@@ -1,2 +1,4 @@
 xd
 public static int main
+
+int x = 90;
